@@ -1,0 +1,3 @@
+0 Cachorros
+1 Gatos
+2 Pássaros 
