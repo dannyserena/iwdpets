@@ -2,8 +2,16 @@
 ## Getting Started
 
 IWDPETs é um Aplicativo em Flutter que utilizar Machine Learning para classificar imagens de pets (gatos,cachorros e passaros) apresentado no International Womens Day Lauro de Freitas
+
+ <img src="https://github.com/dannyserena/iwdpets/blob/master/assets/screen_app.jpeg"/>
 ### slides 
 https://docs.google.com/presentation/d/1noTzt3aoWVZtX8GfV4gYZKoODumZwxlfU4QB-vu2jQw/edit?usp=sharing
+
+
+### Arquitetura
+
+ <img src="https://github.com/dannyserena/iwdpets/blob/master/assets/arquitetura.jpeg" width="200" />
+
 
 ### Dataset
 https://www.kaggle.com/datasets?search=dog
