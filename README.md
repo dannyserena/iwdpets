@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1noTzt3aoWVZtX8GfV4gYZKoODumZwxlfU4QB-vu2
 
 ### Arquitetura
 
- <img src="https://github.com/dannyserena/iwdpets/blob/master/assets/arquitetura.jpeg" width="200" />
+ <img src="https://github.com/dannyserena/iwdpets/blob/master/assets/arquitetura.jpeg"  />
 
 
 ### Dataset
